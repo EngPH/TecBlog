@@ -75,6 +75,7 @@ h1{
 
 h2{
     color: var(--laranja);
+    margin-bottom: 0;
 }
 
 h3{
@@ -114,8 +115,16 @@ h3{
     padding-top: 2px;
 }
 
+.espacocima{
+    margin-top: 10px;
+}
+
 hr{
     border: 0;
     height: 2px;
-    background-image: linear-gradient(to right, transparent , #CCC, transparent 90%); 
+    background-image: linear-gradient(to right, transparent , #b4b1b1, transparent 90%); 
+}
+
+img{
+    margin-top: 5px;
 }
